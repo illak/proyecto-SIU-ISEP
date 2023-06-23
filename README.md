@@ -18,3 +18,6 @@ Se presentan los principales conceptos utilizados para modelar SIU-Guaraní 3, y
 Es una adaptación del modelo conceptual del enlace anterior, diseñado para hacer de "cheat sheet", es decir, un conjunto de notas de consulta rápida. Además se agregaron
 enlaces directos a los distintos elementos que componen el modelo conceptual y a recursos similares que pueden resultar útiles durante el proceso de capacitación pero
 también en las siguientes etapas.
+
+### [Guía rápida de configuración de propuestas en Sistema Guaraní](https://github.com/illak/proyecto-SIU-ISEP/raw/main/siu_guarani_guia_configuracion_propuestas_isep.pdf)
+Es una guía que contiene los pasos a seguir para la configuración de propuestas desde cero.
